@@ -15,6 +15,9 @@ public class GitClass {
 		
 		//Develop Branch
 		System.out.println("Created New Branch - Develop");
+		
+		//US QA Team
+		System.out.println("This line is added by US QA Team");
 	}
 
 }
